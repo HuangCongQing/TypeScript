@@ -1,0 +1,2 @@
+# TypeScript
+typescript对javascript有很好的支持，属于javascript的一个超集。属于把javascript开发集成为真正的面向对象的，强类型的框架，使前台的开发可以像后台开发一样，模块化，便利化，大大的提高了开发的效率。
